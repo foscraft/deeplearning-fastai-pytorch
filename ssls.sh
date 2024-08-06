@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set e;
 # List of domains to check
 domains=("ims.co.ke" "payments.ims.co.ke")
 
